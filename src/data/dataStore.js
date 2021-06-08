@@ -12,11 +12,24 @@ export const settings = {
   },
   defaultListDescription: '<p>I can do all the things!!!</p>',
   defaultColumnIcon: 'list-alt',
+  headerIcon: 'award',
 };
 
 export const pageContents = {
   title: 'My first React app',
   subtitle: 'A simple to-do app, with lists, columns and cards',
+};
+
+export const FAQData = {
+  title: 'Frequently asked questions',
+  image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+  description: 'List of Mostly asked questions',
+};
+
+export const infoData = {
+  title: 'To-do app informations',
+  image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+  description: 'Simple tutorial how to use this app',
 };
 
 export const listData = {
